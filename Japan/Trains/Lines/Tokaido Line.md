@@ -1,0 +1,1 @@
+The Tokaido line runs between [[Tokyo]] and [[Kyoto]] along the Southern coast of Japan.
