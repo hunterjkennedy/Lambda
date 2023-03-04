@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japan/Destinations/Tsukuba/Tsukuba.md",
+                "file": "Daily Notes/2023-03-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "96fc9fafe542750e",
+            "id": "9eddf9d8165c5457",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center/JAXA Tsukuba Space Center.md",
+                "file": "Japan/Destinations/Tokyo Region/Tokyo/Airports/Haneda.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center/JAXA Tsukuba Space Center.md",
+                "file": "Daily Notes/2023-03-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center/JAXA Tsukuba Space Center.md",
+                "file": "Daily Notes/2023-03-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center/JAXA Tsukuba Space Center.md"
+                "file": "Daily Notes/2023-03-03.md"
               }
             }
           }
@@ -159,27 +158,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96fc9fafe542750e",
+  "active": "79c7e778f4ff8c56",
   "lastOpenFiles": [
-    "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center/img007.jpg",
-    "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center/images",
-    "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center/tksc-2019-2.jpg",
-    "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center/Japan-Aerospace-Exploration-Agency_2-760x520.jpg",
-    "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center/jaxaTsukubaSpaceCenterPamphlet.pdf",
-    "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center/JAXA Tsukuba Space Center.md",
-    "Japan/Destinations/Tsukuba/Tsukuba.md",
-    "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center",
-    "Japan/Destinations/Tsukuba",
+    "Japan/Destinations/Tokyo Region/Tokyo/Airports/Haneda.md",
+    "Japan/Destinations/Tokyo Region/Tokyo.md",
+    "Japan/Destinations/Tokyo Region/Tokyo/Airports/Narita.md",
+    "Japan/Destinations/Tokyo Region/Tokyo/Airports/Pasted image 20230303184836.png",
     "Daily Notes/2023-03-03.md",
+    "Japan/Destinations/Destinations.md",
+    "Japan/Japan Travel Plan.md",
+    "Start Here.md",
+    "Japan/Destinations/Tokyo Region/Tokyo/Airports/image.png",
     "USA/People/Benjamin Coffman.md",
     "USA/People/Hunter Kennedy.md",
+    "Japan/Prerequsities.md",
+    "Japan/Destinations/Tokyo Region/Tokyo/Airports/haneda-airport-edo-market-shops-iStock-1033306998.jpg",
+    "Japan/Destinations/Tokyo Region/Tokyo/Airports/1588223705466.jpg",
+    "Japan/Destinations/Tokyo Region/Tokyo/Airports/Pasted image 20230303183337.png",
+    "Japan/Destinations/Tokyo Region/Tokyo/Airports",
+    "Japan/Destinations/Tokyo Region/Tokyo",
+    "Japan/Destinations/Tokyo Region/Tsukuba/Tsukuba.md",
+    "Japan/Destinations/Tokyo Region/Tsukuba/JAXA Tsukuba Space Center/jaxaTsukubaSpaceCenterPamphlet.pdf",
+    "Japan/Destinations/Tokyo Region/Tsukuba/JAXA Tsukuba Space Center/JAXA Tsukuba Space Center.md",
+    "Japan/Destinations/Tokyo Region/Tsukuba/JAXA Tsukuba Space Center/img007.jpg",
+    "Japan/Destinations/Tsukuba/JAXA Tsukuba Space Center/images",
+    "Japan/Destinations/Tokyo Region/Tsukuba/JAXA Tsukuba Space Center/tksc-2019-2.jpg",
+    "Japan/Destinations/Tokyo Region/Tsukuba/JAXA Tsukuba Space Center/Japan-Aerospace-Exploration-Agency_2-760x520.jpg",
+    "Japan/Destinations/Tokyo Region/Tsukuba/JAXA Tsukuba Space Center",
+    "Japan/Destinations/Tokyo Region/Tsukuba",
     "USA/People",
     "USA",
     "Japan/Tech/Internet Access/Pocket Wi-Fi.md",
     "Daily Notes/Untitled.md",
     "Daily Notes",
-    "Japan/Tech/Internet Access/Internet Access.md",
-    "Japan/Prerequsities.md",
-    "Japan/Japan Travel Plan.md"
+    "Japan/Tech/Internet Access/Internet Access.md"
   ]
 }

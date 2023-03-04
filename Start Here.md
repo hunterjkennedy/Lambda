@@ -1,0 +1,1 @@
+This vault is primarily made for the [[Japan Travel Plan]]. Any other documents not accessible via the [[Japan Travel Plan]] should be linked on this page.
